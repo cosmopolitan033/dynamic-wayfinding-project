@@ -32,6 +32,8 @@ This system is composed of independently developed and maintained services:
 - 📱 SMS alerts for real-time incidents (via Twilio)
 - 🎯 Route rewards system for sustainable behavior
 - ⚙️ Preferences & user profile service with Auth0 integration
+
+
 ---
 
 ## 🏗️ Architecture Diagram
