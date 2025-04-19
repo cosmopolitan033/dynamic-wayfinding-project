@@ -66,8 +66,15 @@ Here’s a preview of our mobile app’s user interface, designed in Figma to en
 
 ## 👥 Team Members
 
-- Zhaocun Sun
-- [Add your teammates here]
+- [Zhaocun(Dean) Sun](https://github.com/cosmopolitan033)
+- [Venkata Manda](https://github.com/ikarthikeya)
+- [Ze Yan Liow](https://github.com/ZeYanLiow)
+- [Niels Mooren](https://github.com/NielsMooren)
+- [Archana Nair](https://github.com/Archana-1109)
+- [Linyun Gong](https://github.com/Linyun-Gong)
+- [Xinqi Cai](https://github.com/cxqiscool)
+- [Yuejia Liu](https://github.com/Liuyj02)
+- [Shubh Jaiswal](https://github.com/Shubh-jaiswal)
 
 ---
 
