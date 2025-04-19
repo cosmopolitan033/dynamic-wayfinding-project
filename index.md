@@ -1,4 +1,3 @@
-# Dynamic Sustainable Wayfinding
 
 Welcome to our project page for the **Advanced Software Engineering** course!
 
